@@ -1,4 +1,4 @@
-FlaskLab
+Flask Lab
 ========
 
-Experiments in Flask
+Repo for my Flask related experiments
